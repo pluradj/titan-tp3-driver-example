@@ -4,9 +4,9 @@ Titan Server Application
 This is a starter project that demonstrates how a basic graph application can communicate with a Titan Server.
 
 Titan implements the graph APIs defined in [Apache TinkerPop](http://tinkerpop.apache.org), so much of this example
-code can work with any [Gremlin Server](http://tinkerpop.apache.org/docs/3.0.1-incubating/reference/#gremlin-server).
+code can work with any [Gremlin Server](http://tinkerpop.apache.org/docs/3.0.1-incubating/#gremlin-server).
 This project demonstrates how to connect to Gremlin Server through Java using the
-[Gremlin Driver](http://tinkerpop.apache.org/docs/3.0.1-incubating/reference/#connecting-via-java) that is distributed
+[Gremlin Driver](http://tinkerpop.apache.org/docs/3.0.1-incubating/#_connecting_via_java) that is distributed
 by TinkerPop.
 
 Prerequisites
